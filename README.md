@@ -28,7 +28,7 @@ Data Analyst and Master's student in Computer Science with experience in **SQL, 
 
 **M.Sc. Computer Science** — Kiel University of Applied Sciences, Germany *(2025 – present)*
 
-**B.Tech, Computer Science & Engineering** — Raghu Engineering College, Visakhapatnam, India *(Sep 2020 – Apr 2024)* · CGPA 8.51/10.0
+**B.Tech, Computer Science & Engineering** — Raghu Engineering College, Visakhapatnam, India *(Sep 2020 – Apr 2024)* · CGPA 1.7
 
 ---
 
