@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | Power BI · SQL · Python | M.Sc. Computer Science student in Germany</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/sai-kiran-panchireddi-28967b273/)" target="_blank">
+  <a href="https://www.linkedin.com/in/sai-kiran-panchireddi-28967b273/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:panchireddisaikiran10@gmail.com">
